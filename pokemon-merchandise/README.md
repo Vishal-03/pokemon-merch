@@ -1,4 +1,4 @@
 # Technologies
-#ReactJs and Npm (Node package manager)
+ReactJs and Npm (Node package manager)
 
-#This Repository is of Pokemon - merchandise website
+This Repository is of Pokemon - merchandise website
